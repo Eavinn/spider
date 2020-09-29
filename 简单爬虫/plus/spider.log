@@ -1,0 +1,575 @@
+2020-09-28 16:06:06 engine.py [line:40] INFO: 开始运行时间：2020-09-28 16:06:06.037130
+2020-09-28 16:06:06 scheduler.py [line:21] WARNING: 去除重复url：http://www.baidu.com
+2020-09-28 16:06:06 downloader.py [line:16] INFO: 发送请求，请求网址：http://www.baidu.com
+2020-09-28 16:06:07 downloader.py [line:16] INFO: 发送请求，请求网址：http://news.baidu.com
+2020-09-28 16:06:08 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=0
+2020-09-28 16:06:08 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=25
+2020-09-28 16:06:09 engine.py [line:43] INFO: 运行结束时间：2020-09-28 16:06:09.036597
+2020-09-28 16:06:09 engine.py [line:44] INFO: 耗时：3.00
+2020-09-28 16:06:37 engine.py [line:40] INFO: 开始运行时间：2020-09-28 16:06:37.407979
+2020-09-28 16:06:37 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=0
+2020-09-28 16:06:37 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=25
+2020-09-28 16:06:38 engine.py [line:43] INFO: 运行结束时间：2020-09-28 16:06:38.353638
+2020-09-28 16:06:38 engine.py [line:44] INFO: 耗时：0.95
+2020-09-28 16:06:49 engine.py [line:40] INFO: 开始运行时间：2020-09-28 16:06:49.182459
+2020-09-28 16:06:49 engine.py [line:43] INFO: 运行结束时间：2020-09-28 16:06:49.182459
+2020-09-28 16:06:49 engine.py [line:44] INFO: 耗时：0.00
+2020-09-28 16:06:59 engine.py [line:40] INFO: 开始运行时间：2020-09-28 16:06:59.545785
+2020-09-28 16:06:59 scheduler.py [line:21] WARNING: 去除重复url：http://www.baidu.com
+2020-09-28 16:06:59 downloader.py [line:16] INFO: 发送请求，请求网址：http://www.baidu.com
+2020-09-28 16:07:00 downloader.py [line:16] INFO: 发送请求，请求网址：http://news.baidu.com
+2020-09-28 16:07:01 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=0
+2020-09-28 16:07:01 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=25
+2020-09-28 16:07:02 engine.py [line:43] INFO: 运行结束时间：2020-09-28 16:07:02.178320
+2020-09-28 16:07:02 engine.py [line:44] INFO: 耗时：2.63
+2020-09-28 20:39:01 engine.py [line:40] INFO: 开始运行时间：2020-09-28 20:39:01.562818
+2020-09-28 20:39:01 scheduler.py [line:40] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 20:39:01 downloader.py [line:16] INFO: 发送请求，请求网址：http://www.baidu.com
+2020-09-28 20:39:02 downloader.py [line:16] INFO: 发送请求，请求网址：http://news.baidu.com
+2020-09-28 20:39:03 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=0
+2020-09-28 20:39:03 downloader.py [line:16] INFO: 发送请求，请求网址：https://movie.douban.com/top250?start=25
+2020-09-28 20:39:04 engine.py [line:43] INFO: 运行结束时间：2020-09-28 20:39:04.215740
+2020-09-28 20:39:04 engine.py [line:44] INFO: 耗时：2.65
+2020-09-28 21:15:13 engine.py [line:40] INFO: 开始运行时间：2020-09-28 21:15:13.435747
+2020-09-28 21:15:13 scheduler.py [line:27] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 21:15:13 scheduler.py [line:27] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 21:15:13 scheduler.py [line:41] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 21:15:13 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-28 21:15:14 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-28 21:15:15 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 21:15:15 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 21:15:15 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-28 21:15:15 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-28 21:15:16 engine.py [line:43] INFO: 运行结束时间：2020-09-28 21:15:16.178647
+2020-09-28 21:15:16 engine.py [line:44] INFO: 耗时：2.74
+2020-09-28 21:32:47 engine.py [line:41] INFO: 开始运行时间：2020-09-28 21:32:47.475990
+2020-09-28 21:32:47 scheduler.py [line:27] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 21:32:47 scheduler.py [line:27] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 21:32:47 scheduler.py [line:41] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 21:32:47 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 21:32:47 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 21:32:47 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-28 21:32:49 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-28 21:32:49 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-28 21:32:50 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-28 21:32:50 engine.py [line:44] INFO: 运行结束时间：2020-09-28 21:32:50.427325
+2020-09-28 21:32:50 engine.py [line:45] INFO: 耗时：2.95
+2020-09-28 21:56:08 engine.py [line:43] INFO: 开始运行时间：2020-09-28 21:56:08.280996
+2020-09-28 21:56:08 scheduler.py [line:27] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 21:56:08 scheduler.py [line:27] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 21:56:08 scheduler.py [line:41] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 21:56:08 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 21:56:08 scheduler.py [line:27] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 21:56:08 engine.py [line:56] INFO: Main Thread is over!
+2020-09-28 21:56:08 engine.py [line:46] INFO: 运行结束时间：2020-09-28 21:56:08.282999
+2020-09-28 21:56:08 engine.py [line:47] INFO: 耗时：0.00
+2020-09-28 22:07:04 engine.py [line:45] INFO: 开始运行时间：2020-09-28 22:07:04.306145
+2020-09-28 22:07:04 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 22:07:04 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 22:07:04 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 22:07:04 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:07:04 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:15:50 engine.py [line:46] INFO: 开始运行时间：2020-09-28 22:15:50.961574
+2020-09-28 22:15:50 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 22:15:50 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 22:15:50 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 22:15:50 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:15:50 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:16:25 engine.py [line:46] INFO: 开始运行时间：2020-09-28 22:16:25.805759
+2020-09-28 22:16:25 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 22:16:25 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 22:16:25 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 22:16:25 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:16:25 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:16:25 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-28 22:16:26 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:16:26 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-28 22:16:28 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:16:28 engine.py [line:64] INFO: Main Thread is over!
+2020-09-28 22:16:28 engine.py [line:49] INFO: 运行结束时间：2020-09-28 22:16:28.365498
+2020-09-28 22:16:28 engine.py [line:50] INFO: 耗时：2.56
+2020-09-28 22:16:52 engine.py [line:46] INFO: 开始运行时间：2020-09-28 22:16:52.618713
+2020-09-28 22:16:52 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-28 22:16:52 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-28 22:16:52 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-28 22:16:52 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:16:52 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:16:52 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-28 22:16:52 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-28 22:16:53 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-28 22:16:54 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-28 22:16:54 engine.py [line:64] INFO: Main Thread is over!
+2020-09-28 22:16:54 engine.py [line:49] INFO: 运行结束时间：2020-09-28 22:16:54.975858
+2020-09-28 22:16:54 engine.py [line:50] INFO: 耗时：2.36
+2020-09-29 13:53:16 engine.py [line:52] INFO: 开始运行时间：2020-09-29 13:53:16.584540
+2020-09-29 13:53:16 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 13:53:16 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 13:53:16 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 13:53:16 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 13:53:16 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 13:53:16 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 13:58:18 engine.py [line:52] INFO: 开始运行时间：2020-09-29 13:58:18.072838
+2020-09-29 13:58:18 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 13:58:18 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 13:58:18 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 13:58:18 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 13:58:18 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 13:58:18 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 13:58:19 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:00:03 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:00:03.778390
+2020-09-29 14:00:03 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:00:03 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:00:03 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:00:03 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:00:03 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:00:03 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:00:05 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:01:02 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:01:02.515858
+2020-09-29 14:01:02 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:01:02 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:01:02 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:01:02 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:01:02 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:01:02 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:01:02 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:01:04 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:01:04 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:02:43 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:02:43.976272
+2020-09-29 14:02:43 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:02:43 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:02:43 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:02:43 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:02:43 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:02:44 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:02:44 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:02:45 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:02:45 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:02:46 engine.py [line:70] INFO: Main Thread is over!
+2020-09-29 14:02:46 engine.py [line:55] INFO: 运行结束时间：2020-09-29 14:02:46.382592
+2020-09-29 14:02:46 engine.py [line:56] INFO: 耗时：2.41
+2020-09-29 14:05:02 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:05:02.935399
+2020-09-29 14:05:02 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:05:02 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:05:02 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:05:02 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:05:02 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:05:03 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:05:03 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:05:06 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:05:07 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:05:07 engine.py [line:70] INFO: Main Thread is over!
+2020-09-29 14:05:07 engine.py [line:55] INFO: 运行结束时间：2020-09-29 14:05:07.832977
+2020-09-29 14:05:07 engine.py [line:56] INFO: 耗时：4.90
+2020-09-29 14:05:27 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:05:27.866984
+2020-09-29 14:05:27 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:05:27 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:05:27 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:05:27 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:05:27 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:05:27 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:05:28 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 14:05:29 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:05:29 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:05:30 engine.py [line:70] INFO: Main Thread is over!
+2020-09-29 14:05:30 engine.py [line:55] INFO: 运行结束时间：2020-09-29 14:05:30.278009
+2020-09-29 14:05:30 engine.py [line:56] INFO: 耗时：2.41
+2020-09-29 14:06:04 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:06:04.870525
+2020-09-29 14:06:04 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:06:04 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:06:04 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:06:04 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:06:04 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:06:05 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:06:06 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:10:39 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:10:39.751599
+2020-09-29 14:10:39 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:10:39 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:10:39 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:10:39 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:10:39 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:10:40 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:14:11 engine.py [line:52] INFO: 开始运行时间：2020-09-29 14:14:11.447385
+2020-09-29 14:14:11 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:14:11 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:14:11 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:14:11 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:14:11 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:14:11 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:15:13 engine.py [line:56] INFO: 开始运行时间：2020-09-29 14:15:13.872048
+2020-09-29 14:15:13 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:15:13 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:15:13 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:15:13 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:15:13 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:15:13 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:15:15 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:15:15 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:15:16 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:15:16 engine.py [line:74] INFO: Main Thread is over!
+2020-09-29 14:15:16 engine.py [line:59] INFO: 运行结束时间：2020-09-29 14:15:16.336414
+2020-09-29 14:15:16 engine.py [line:60] INFO: 耗时：2.46
+2020-09-29 14:15:52 engine.py [line:56] INFO: 开始运行时间：2020-09-29 14:15:52.250153
+2020-09-29 14:15:52 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:15:52 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:15:52 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:15:52 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:15:52 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:15:52 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:15:53 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:15:54 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:15:54 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:15:54 engine.py [line:74] INFO: Main Thread is over!
+2020-09-29 14:15:54 engine.py [line:59] INFO: 运行结束时间：2020-09-29 14:15:54.665476
+2020-09-29 14:15:54 engine.py [line:60] INFO: 耗时：2.42
+2020-09-29 14:16:42 engine.py [line:53] INFO: 开始运行时间：2020-09-29 14:16:42.553508
+2020-09-29 14:16:42 scheduler.py [line:28] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 14:16:42 scheduler.py [line:28] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 14:16:42 scheduler.py [line:43] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 14:16:42 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:16:42 scheduler.py [line:28] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:16:42 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 14:16:43 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 14:16:44 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 14:16:44 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 14:16:44 engine.py [line:71] INFO: Main Thread is over!
+2020-09-29 14:16:44 engine.py [line:56] INFO: 运行结束时间：2020-09-29 14:16:44.980809
+2020-09-29 14:16:44 engine.py [line:57] INFO: 耗时：2.43
+2020-09-29 16:12:39 engine.py [line:58] INFO: 开始运行时间：2020-09-29 16:12:39.643538
+2020-09-29 16:12:39 scheduler.py [line:34] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 16:12:39 scheduler.py [line:34] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 16:12:39 scheduler.py [line:49] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 16:12:39 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:12:39 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:12:39 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 16:12:40 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:12:40 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:12:40 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 16:12:42 engine.py [line:76] INFO: Main Thread is over!
+2020-09-29 16:12:42 engine.py [line:61] INFO: 运行结束时间：2020-09-29 16:12:42.087519
+2020-09-29 16:12:42 engine.py [line:62] INFO: 耗时：2.44
+2020-09-29 16:12:58 engine.py [line:58] INFO: 开始运行时间：2020-09-29 16:12:58.853195
+2020-09-29 16:12:58 scheduler.py [line:34] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 16:12:58 scheduler.py [line:34] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 16:12:58 scheduler.py [line:49] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 16:12:58 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:12:58 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:12:58 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 16:13:00 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 16:13:00 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:13:00 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:13:01 engine.py [line:76] INFO: Main Thread is over!
+2020-09-29 16:13:01 engine.py [line:61] INFO: 运行结束时间：2020-09-29 16:13:01.070212
+2020-09-29 16:13:01 engine.py [line:62] INFO: 耗时：2.22
+2020-09-29 16:22:50 engine.py [line:58] INFO: 开始运行时间：2020-09-29 16:22:50.774919
+2020-09-29 16:22:50 scheduler.py [line:34] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 16:22:50 scheduler.py [line:34] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 16:22:50 scheduler.py [line:49] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 16:22:50 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:22:50 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:22:50 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 16:22:52 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 16:22:52 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:22:52 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:22:53 engine.py [line:76] INFO: Main Thread is over!
+2020-09-29 16:22:53 engine.py [line:61] INFO: 运行结束时间：2020-09-29 16:22:53.051619
+2020-09-29 16:22:53 engine.py [line:62] INFO: 耗时：2.28
+2020-09-29 16:30:56 engine.py [line:56] INFO: 开始运行时间：2020-09-29 16:30:56.805551
+2020-09-29 16:32:07 engine.py [line:56] INFO: 开始运行时间：2020-09-29 16:32:07.902545
+2020-09-29 16:32:07 scheduler.py [line:34] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 16:32:07 scheduler.py [line:34] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 16:32:07 scheduler.py [line:49] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 16:32:07 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:32:07 scheduler.py [line:34] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:34:37 engine.py [line:56] INFO: 开始运行时间：2020-09-29 16:34:37.690494
+2020-09-29 16:34:37 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 16:34:39 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 16:34:39 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 16:34:39 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 16:37:16 engine.py [line:56] INFO: 开始运行时间：2020-09-29 16:37:16.518341
+2020-09-29 20:19:12 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:19:12.717147
+2020-09-29 20:19:40 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:19:40.285333
+2020-09-29 20:19:40 scheduler.py [line:36] INFO: Add Request [GET] <http://www.baidu.com>
+2020-09-29 20:19:40 scheduler.py [line:36] INFO: Add Request [GET] <http://news.baidu.com>
+2020-09-29 20:19:40 scheduler.py [line:51] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:19:40 scheduler.py [line:36] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 20:19:40 scheduler.py [line:36] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 20:21:43 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:21:43.737142
+2020-09-29 20:21:43 scheduler.py [line:51] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:21:43 scheduler.py [line:51] WARNING: 去除重复请求：url=http://news.baidu.com, fp=fd6c1cea4ac74c64529e2f24386a17cc21c51e5b
+2020-09-29 20:21:43 scheduler.py [line:51] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:21:43 scheduler.py [line:51] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:21:43 scheduler.py [line:51] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 20:22:05 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:22:05.574664
+2020-09-29 20:22:05 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 20:22:06 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 20:22:06 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 20:22:06 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 20:22:38 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:22:38.614998
+2020-09-29 20:22:56 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:22:56.651512
+2020-09-29 20:22:56 scheduler.py [line:51] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:22:56 scheduler.py [line:51] WARNING: 去除重复请求：url=http://news.baidu.com, fp=fd6c1cea4ac74c64529e2f24386a17cc21c51e5b
+2020-09-29 20:22:56 scheduler.py [line:51] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:22:56 scheduler.py [line:51] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:22:56 scheduler.py [line:51] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 20:38:06 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:38:06.183211
+2020-09-29 20:38:06 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:38:06 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://news.baidu.com>
+2020-09-29 20:38:06 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:38:06 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:38:06 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 20:39:17 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:39:17.632333
+2020-09-29 20:39:17 scheduler.py [line:57] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:39:17 scheduler.py [line:57] WARNING: 去除重复请求：url=http://news.baidu.com, fp=fd6c1cea4ac74c64529e2f24386a17cc21c51e5b
+2020-09-29 20:39:17 scheduler.py [line:57] WARNING: 去除重复请求：url=http://www.baidu.com, fp=f2b047428fcbca316fc82205a200bd906620e4e4
+2020-09-29 20:39:17 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:39:17 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 20:40:04 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:40:04.369768
+2020-09-29 20:40:04 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:40:04 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://news.baidu.com>
+2020-09-29 20:40:04 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:40:04 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:40:04 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 20:40:24 engine.py [line:56] INFO: 开始运行时间：2020-09-29 20:40:24.429636
+2020-09-29 20:40:24 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:40:24 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://news.baidu.com>
+2020-09-29 20:40:24 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 20:40:24 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=0, fp=cfd68426c28eab8c1140a34e0b4534872746f187
+2020-09-29 20:40:24 scheduler.py [line:57] WARNING: 去除重复请求：url=https://movie.douban.com/top250?start=25, fp=e35515c3fd12e35c279b8695b4df39037e74c87d
+2020-09-29 21:03:04 engine.py [line:58] INFO: 开始运行时间：2020-09-29 21:03:04.214042
+2020-09-29 21:03:04 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:03:05 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:03:06 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 21:03:07 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:03:08 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 21:03:08 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:03:10 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 21:03:10 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 21:03:11 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 21:04:01 engine.py [line:58] INFO: 开始运行时间：2020-09-29 21:04:01.637067
+2020-09-29 21:04:01 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 21:04:01 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://news.baidu.com>
+2020-09-29 21:04:01 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 21:04:01 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 21:04:01 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 21:04:01 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 21:04:02 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 21:04:03 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 21:04:03 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1296141/>
+2020-09-29 21:04:03 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292052/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1851857/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292365/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293172/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/20495023/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1300267/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/30170448/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291552/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/26387939/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/2129039/>
+2020-09-29 21:04:04 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1929463/>
+2020-09-29 21:04:04 downloader.py [line:23] INFO: [200] <https://www.baidu.com/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293182/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295038/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/21937452/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291858/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1308807/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291583/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1299398/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293839/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291828/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/26752088/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1298624/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/21937445/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292000/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1299131/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291546/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292720/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295644/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292722/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292063/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291561/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295124/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3541415/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3011091/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292001/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1889243/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292064/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3793023/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/2131459/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291549/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292213/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/5912992/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/25662329/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1307914/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291841/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291560/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1849031/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3319755/>
+2020-09-29 21:04:05 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/6786002/>
+2020-09-29 21:04:06 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293172/>
+2020-09-29 21:04:06 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1296141/>
+2020-09-29 21:04:07 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292365/>
+2020-09-29 21:04:07 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1851857/>
+2020-09-29 21:04:08 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/20495023/>
+2020-09-29 21:04:09 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/26387939/>
+2020-09-29 21:04:09 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1300267/>
+2020-09-29 21:04:10 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/2129039/>
+2020-09-29 21:04:10 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291552/>
+2020-09-29 21:04:11 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/30170448/>
+2020-09-29 21:04:12 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295038/>
+2020-09-29 21:04:13 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/21937452/>
+2020-09-29 21:04:13 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293182/>
+2020-09-29 21:04:14 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291858/>
+2020-09-29 21:04:14 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1929463/>
+2020-09-29 21:04:15 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1299398/>
+2020-09-29 21:04:16 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291583/>
+2020-09-29 21:04:16 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293839/>
+2020-09-29 21:04:17 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1308807/>
+2020-09-29 21:04:17 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291828/>
+2020-09-29 21:04:19 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292000/>
+2020-09-29 21:04:19 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/21937445/>
+2020-09-29 21:04:20 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1298624/>
+2020-09-29 21:04:20 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/26752088/>
+2020-09-29 21:04:21 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1299131/>
+2020-09-29 21:04:22 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2020-09-29 21:04:22 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2020-09-29 21:04:23 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2020-09-29 21:04:23 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2020-09-29 21:04:24 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2020-09-29 21:04:25 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2020-09-29 21:04:26 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2020-09-29 21:04:26 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3011091/>
+2020-09-29 21:04:26 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2020-09-29 21:04:27 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2020-09-29 21:04:28 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292001/>
+2020-09-29 21:04:29 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292064/>
+2020-09-29 21:04:29 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1889243/>
+2020-09-29 21:04:30 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3793023/>
+2020-09-29 21:04:30 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/2131459/>
+2020-09-29 21:04:31 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292213/>
+2020-09-29 21:04:32 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/25662329/>
+2020-09-29 21:04:32 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1307914/>
+2020-09-29 21:04:33 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/5912992/>
+2020-09-29 21:04:33 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291549/>
+2020-09-29 21:04:34 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291841/>
+2020-09-29 21:04:35 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1849031/>
+2020-09-29 21:04:36 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/6786002/>
+2020-09-29 21:04:36 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291560/>
+2020-09-29 21:04:36 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3319755/>
+2020-09-29 21:04:37 engine.py [line:79] INFO: Main Thread is over!
+2020-09-29 21:04:37 engine.py [line:61] INFO: 运行结束时间：2020-09-29 21:04:37.543032
+2020-09-29 21:04:37 engine.py [line:62] INFO: 耗时：35.91
+2020-09-29 21:13:16 engine.py [line:58] INFO: 开始运行时间：2020-09-29 21:13:16.003736
+2020-09-29 21:13:16 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 21:13:16 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://news.baidu.com>
+2020-09-29 21:13:16 scheduler.py [line:35] INFO: Add Request(dont filter) [GET] <http://www.baidu.com>
+2020-09-29 21:13:16 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/top250?start=0>
+2020-09-29 21:13:16 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/top250?start=25>
+2020-09-29 21:13:16 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:13:17 downloader.py [line:23] INFO: [200] <http://www.baidu.com/>
+2020-09-29 21:13:18 downloader.py [line:23] INFO: [200] <http://news.baidu.com/>
+2020-09-29 21:13:19 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=0>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292052/>
+2020-09-29 21:13:19 downloader.py [line:23] INFO: [200] <https://movie.douban.com/top250?start=25>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1296141/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291546/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292720/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295644/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292722/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292063/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291561/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295124/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3541415/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3011091/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292001/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1889243/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292064/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3793023/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/2131459/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291549/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292213/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/5912992/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/25662329/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1307914/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291841/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291560/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1849031/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/3319755/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/6786002/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1851857/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292365/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293172/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/20495023/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1300267/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/30170448/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291552/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/26387939/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/2129039/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1929463/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293182/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1295038/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/21937452/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291858/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1308807/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291583/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1299398/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1293839/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1291828/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/26752088/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1298624/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/21937445/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1292000/>
+2020-09-29 21:13:19 scheduler.py [line:42] INFO: Add Request [GET] <https://movie.douban.com/subject/1299131/>
+2020-09-29 21:13:20 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2020-09-29 21:13:21 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2020-09-29 21:13:21 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2020-09-29 21:13:22 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2020-09-29 21:13:22 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2020-09-29 21:13:23 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3011091/>
+2020-09-29 21:13:24 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2020-09-29 21:13:24 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2020-09-29 21:13:25 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2020-09-29 21:13:25 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2020-09-29 21:13:26 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292064/>
+2020-09-29 21:13:27 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3793023/>
+2020-09-29 21:13:27 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292001/>
+2020-09-29 21:13:28 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1889243/>
+2020-09-29 21:13:28 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/2131459/>
+2020-09-29 21:13:30 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292213/>
+2020-09-29 21:13:30 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/25662329/>
+2020-09-29 21:13:31 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1307914/>
+2020-09-29 21:13:32 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/5912992/>
+2020-09-29 21:13:32 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291560/>
+2020-09-29 21:13:33 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291549/>
+2020-09-29 21:13:33 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1849031/>
+2020-09-29 21:13:34 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291841/>
+2020-09-29 21:13:35 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/3319755/>
+2020-09-29 21:13:35 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1296141/>
+2020-09-29 21:13:36 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/6786002/>
+2020-09-29 21:13:36 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1851857/>
+2020-09-29 21:13:37 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292365/>
+2020-09-29 21:13:38 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1300267/>
+2020-09-29 21:13:39 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291552/>
+2020-09-29 21:13:39 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293172/>
+2020-09-29 21:13:40 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/30170448/>
+2020-09-29 21:13:40 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/20495023/>
+2020-09-29 21:13:41 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1295038/>
+2020-09-29 21:13:42 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/26387939/>
+2020-09-29 21:13:42 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293182/>
+2020-09-29 21:13:43 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/2129039/>
+2020-09-29 21:13:43 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1929463/>
+2020-09-29 21:13:45 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291858/>
+2020-09-29 21:13:45 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1299398/>
+2020-09-29 21:13:45 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1308807/>
+2020-09-29 21:13:46 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291583/>
+2020-09-29 21:13:46 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/21937452/>
+2020-09-29 21:13:48 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1293839/>
+2020-09-29 21:13:50 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1291828/>
+2020-09-29 21:13:50 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/21937445/>
+2020-09-29 21:13:51 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1298624/>
+2020-09-29 21:13:51 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1292000/>
+2020-09-29 21:13:52 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/26752088/>
+2020-09-29 21:13:55 downloader.py [line:23] INFO: [200] <https://movie.douban.com/subject/1299131/>
+2020-09-29 21:13:55 engine.py [line:79] INFO: Main Thread is over!
+2020-09-29 21:13:55 engine.py [line:61] INFO: 运行结束时间：2020-09-29 21:13:55.940762
+2020-09-29 21:13:55 engine.py [line:62] INFO: 耗时：39.94
